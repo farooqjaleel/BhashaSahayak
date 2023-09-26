@@ -31,12 +31,12 @@ If you encounter issues or have feedback, please feel free to create GitHub issu
 This project is open-source and available under the [MIT License](LICENSE.md).
 
 ## Contributors
-- Farooq Jaleel(https://github.com/farooqjaleel)
-- Hashim Ayoob(https://github.com/HashimAyoob)
-- Sambu S(https://github.com/sambu12345)
-- Anulakshmi Shibu(https://github.com/anulakshmishibu)
-- Samson T A(https://github.com/SAMSONANSEL)
-- Shilpa Shivanandan(https://github.com/)
+- Farooq Jaleel (https://github.com/farooqjaleel)
+- Hashim Ayoob (https://github.com/HashimAyoob)
+- Sambu S (https://github.com/sambu12345)
+- Anulakshmi Shibu (https://github.com/anulakshmishibu)
+- Samson T A (https://github.com/SAMSONANSEL)
+- Shilpa Shivanandan (https://github.com/Shilpa0801)
 
 ## Acknowledgments
 We would like to express our gratitude to [LibreTranslate](https://libretranslate.de/) for providing the translation services used in this project.
