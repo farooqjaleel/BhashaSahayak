@@ -19,7 +19,7 @@ BhashaSahayak is a web-based application designed to bridge language barriers an
 To get started with the BhashaSahayak project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jinn7/bhashasahayak.git
+   git clone https://github.com/farooqjaleel/bhashasahayak.git
 2. Install the necessary dependencies.
 3. Contribute to the development, UI/UX design, testing, or documentation.
 4. Submit pull requests to enhance the project.
@@ -31,7 +31,7 @@ If you encounter issues or have feedback, please feel free to create GitHub issu
 This project is open-source and available under the [MIT License](LICENSE.md).
 
 ## Contributors
-- Farooq Jaleel(https://github.com/jinn7)
+- Farooq Jaleel(https://github.com/farooqjaleel)
 - Hashim Ayoob(https://github.com/HashimAyoob)
 - Sambu S(https://github.com/sambu12345)
 - Anulakshmi Shibu(https://github.com/anulakshmishibu)
